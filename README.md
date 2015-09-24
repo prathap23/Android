@@ -1,2 +1,2 @@
 # Android
-Interesting Projects in android
+Projects in android
